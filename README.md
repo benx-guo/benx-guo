@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Ben
 ![Compiler](https://img.shields.io/badge/Compiler-⚙️-white)
-![Linux](https://img.shields.io/badge/Linux-🐧-green)
-![Rust](https://img.shields.io/badge/Rust-🦀-orange)
+![Linux](https://img.shields.io/badge/Linux-🐧-red)
+![Rust](https://img.shields.io/badge/Rust-🦀-green)
+![AI](https://img.shields.io/badge/AIPlayer-🤖-blue)
 
 ```log
 BIOS v0.1.0
